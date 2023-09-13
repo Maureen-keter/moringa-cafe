@@ -1,0 +1,80 @@
+header{
+    background-color: rgb(194, 182, 206);;
+    color: #333;
+    font-size: 16px;
+    display: flex;
+    justify-content: flex-start;
+    padding: 10px;
+    margin: 20px;
+    border-style: solid;
+    border-width: 10px;
+        }
+
+.menu a{
+    color: #2012da;
+    font-size: 18px;
+}
+.menu a:hover{
+    color: #e12517;
+    opacity: 0.3;
+}
+.hero{
+    background-color: #decfce;
+    ;
+    text-align: center;
+    padding: 10px;
+    margin: 20px;
+    border-style: solid;
+    border-width: 10px;
+}
+.items{
+    background-color: rgb(194, 182, 206);
+    color: #333;
+    padding: 10px;
+    margin: 20px;
+    text-align: 50px;
+    border-style: solid;
+    border-width: 10px;
+    }
+.about{
+    text-align: center;
+    font-size: 18px;
+    background-color: #decfce;
+    margin: 20px;
+    text-align: center;
+    border-style: solid;
+    border-width: 10px;
+}
+form{
+    text-align: center;
+    background-color: azure;
+    border-style: solid;
+    border-width: 10px;
+}
+form input[type="text"],input[type="email"], textarea{
+    width: 80%;
+    padding: 10px;
+    margin: 20px;
+    border-style: solid;
+    border-width: 2px;
+}
+footer{
+    background-color: rgb(194, 182, 206);
+    color: #333;
+    text-align: center;
+    padding: 20px;
+    border-style: solid;
+    border-width: 10px;
+    margin: 10px;
+ 
+}
+body{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIrJrpI-GdMxHLhS6rp-yxkYnFhw7uM43iew9dCHlWNRZLQBsnTv-ROiFCR6bEJdHFPvc&usqp=CAU);
+    }
+    table, th, td {
+        border: 1px solid black;
+        border-collapse: collapse;
+      }
+      
+
+
